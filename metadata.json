@@ -1,0 +1,5 @@
+{
+  "name": "AI Banter",
+  "description": "A user picks a topic, and two AI personas (a Dreamer and a Skeptic) start a natural, free-flowing conversation, bouncing ideas and debating.",
+  "requestFramePermissions": []
+}
