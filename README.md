@@ -47,3 +47,5 @@ To run this project, you'll need a Google Gemini API key.
 1.  **Obtain an API Key:** Get your key from [Google AI Studio](https://aistudio.google.com/).
 2.  **Set Environment Variable:** The application expects the API key to be available as an environment variable named `API_KEY`.
 3.  **Run the App:** Serve the `index.html` file and the application will be ready to go.
+
+4. https://ai.studio/apps/drive/1iSsUFyD4vlPVVh-5e74yKvhOAyCBU1NA
