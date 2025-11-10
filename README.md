@@ -1,5 +1,5 @@
 # MetaMouths: AI Persona Debates
-https://ai.studio/apps/drive/1iSsUFyD4vlPVVh-5e74yKvhOAyCBU1NA
+
 **Two AIs. One Topic. Infinite Banter.**
 
 MetaMouths is a dynamic web application that pits two AI-powered personas against each other in a debate, discussion, or a no-holds-barred roast battle. Choose from a diverse cast of iconic personalities, give them a topic, and watch the conversation unfold in real-time, complete with unique voices and personalities.
